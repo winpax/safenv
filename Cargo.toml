@@ -20,4 +20,4 @@ name = "env"
 parking_lot = { version = "0.12", optional = true }
 
 [dev-dependencies]
-criterion = { version = "0.5", features = ["html_reports"] }
+criterion = { version = "0.8", features = ["html_reports"] }
